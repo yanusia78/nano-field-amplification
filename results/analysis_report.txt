@@ -1,0 +1,31 @@
+
+    Field Enhancement Analysis Report
+    Generated: 2024-12-23 02:27:37
+
+    1. Shape Comparison:
+       Conical: beta = 0.33
+   Paraboloid: beta = 125.00
+   Ellipsoid: beta = 7.87
+
+2. Optimization Results:
+   Conical:
+          Height: 50.0 nm
+          Radius: 50.0 nm
+          Maximum beta: 1.2
+       Paraboloid:
+          Height: 200.0 nm
+          Radius: 5.0 nm
+          Maximum beta: 68921.0
+       Ellipsoid:
+          Height: 200.0 nm
+          Radius: 5.0 nm
+          Maximum beta: 80.0
+    
+    3. FEM Analysis Results:
+       Maximum field: 763.91 V/nm
+       Numerical beta: 763.91
+
+    4. Array Analysis:
+       Spacing range: 30.0 - 200.0 nm
+       Maximum beta_eff: 0.93
+    
